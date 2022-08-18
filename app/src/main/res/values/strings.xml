@@ -7,4 +7,11 @@
     <string name="text_password">Password</string>
     <string name="text_retype_password">Re-type Password</string>
     <string name="text_register">Register</string>
+
+    <string name="text_error_name">Name is empty</string>
+    <string name="text_error_family">Family is empty</string>
+    <string name="text_error_email">Email is empty</string>
+    <string name="text_error_password">Password is empty</string>
+    <string name="text_error_retype_password">Re-type Password is empty</string>
+    <string name="text_error_not_equals_password">Password with Re-type Password is not equals</string>
 </resources>
