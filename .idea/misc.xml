@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.2705" />
+        <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/drawable/ic_round_person_24.xml" value="0.116" />
         <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/layout/fragment_login.xml" value="0.16" />
-        <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/layout/fragment_register.xml" value="0.121875" />
+        <entry key="..\:/Users/OmidrezaBagherian/AndroidStudioProjects/FormApp/app/src/main/res/layout/fragment_register.xml" value="0.25" />
       </map>
     </option>
   </component>
